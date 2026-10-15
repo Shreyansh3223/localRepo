@@ -2,4 +2,5 @@ Aaj ka hisaab - 1200
 Kal ka hisaab - 1500
 person ka hisaab - 2100
 15 tarik ka hisaab - 6910
-16 tarik ka hisab - 9100
+16 tarik ka hisaab - 9100
+17 tarik ka hisaab - 17000
