@@ -1,2 +1,3 @@
 Aaj ka hisaab - 1200
 Kal ka hisaab - 1500
+person ka hisaab - 2100
